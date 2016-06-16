@@ -1,6 +1,6 @@
 FROM centos:latest
 
-MAINTAINER Fábio Luciano <fabio.goisl@ctis.com.br>
+MAINTAINER Fábio Luciano <fabioluciano@php.net>
 
 RUN rpm -Uvh https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
 RUN rpm -Uvh https://mirror.webtatic.com/yum/el7/webtatic-release.rpm
